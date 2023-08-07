@@ -1,5 +1,5 @@
 # Posify
-This is Decentralized Health Tracking Application
+This is AI based Decentralized Health Tracking Application
 
 # Objective :
 In this project I am focusing on building Web3 platform which keep track of people health . Idea is like I have used Posenet/Movenet AI Model from Tensorflow . We will check pose of person like while crunches , Punches and other exercise poses . If our user follows and performs the exercise upto certain then we will giving them free nfts . I will uploading video of the fully finished app soon We can get clear idea from that 
