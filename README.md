@@ -15,3 +15,7 @@ a. Vesion 1.0.0
 I have just checked simple poses of wrists for testing i.e. if in webcam our wrists are at particular position then it increments count and based on count you get Random nft . I have not created Beautiful Frontend yet but surely create upto the end of this week . There are also some bugs which I have to fix .
 
 b. Version 2.0.0 : Will be with less bugs and proper deployed Sites and better Interfce
+
+#Video Tutorial For POSify HOw it Works
+https://www.loom.com/share/438dea153e7541cc925a9468b351cccb?sid=325079ac-d3f1-4d65-8e53-4d59480d9db4
+We Have Changed the Name of the postify to the HealthRise Rewards
